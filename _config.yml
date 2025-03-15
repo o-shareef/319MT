@@ -1,0 +1,8 @@
+include:
+  - html  # Ensure Jekyll processes the html/ directory
+  - assets
+  - css
+  - images
+  - js
+
+permalink: pretty
