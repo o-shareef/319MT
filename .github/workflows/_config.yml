@@ -1,8 +1,13 @@
+permalink: pretty
 include:
-  - html  # Ensure Jekyll processes the html/ directory
+  - html
   - assets
   - css
   - images
   - js
 
-permalink: pretty
+defaults:
+  - scope:
+      path: "html"
+    values:
+      permalink: /
