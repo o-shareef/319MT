@@ -1,0 +1,40 @@
+{
+  "cat_food": [
+    {
+      "product_name": "Premium Sigma Cat Food",
+      "description": "A high-quality salmon chicken based dry food for adult cats, rich in omega-3 fatty acids.",
+      "price": 24.99,
+      "image": "../images/46763d05-fe5e-4643-8ef0-f9f0853584df.png"
+    },
+    {
+      "product_name": "Sussy Cats Tuna and Beef",
+      "description": "A blend of Tuna and beef in a savory broth, perfect for picky eaters.",
+      "price": 20.49,
+      "image": "../images/9f33e8f5-a40f-4ca1-8f1f-6ad69da6b7b4.png"
+    },
+    {
+      "product_name": "Purina One Plus Hariball Formula",
+      "description": "Delicious cat treats infused with organic catnip for added excitement.",
+      "price": 21.99,
+      "image": "../images/purinas-updated-cat-food-bags-v0-lkrozhvji2ld1.png"
+    },
+    {
+      "product_name": "Amog Us Tuna & Pumpkin",
+      "description": "Grain-free dry food made with high-quality tuna and pumpkin for digestive health.",
+      "price": 22.99,
+      "image": "../images/amoguscatfood.png"
+    },
+    {
+      "product_name": "Organic Chicken Freeze-Dried Food",
+      "description": "Organic freeze-dried chicken food for a healthy and natural meal.",
+      "price": 18.99,
+      "image": "../images//betakitties.png"
+    },
+    {
+      "product_name": "Liver & Chicken Cat Food",
+      "description": "Scrumptious liver and chicken flavored food, perfect for rewarding your feline friend.",
+      "price": 12.49,
+      "image": "../images/whiskernips.png"
+    }
+  ]
+}

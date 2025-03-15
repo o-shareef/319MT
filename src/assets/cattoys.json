@@ -1,0 +1,40 @@
+{
+  "cat_toys": [
+    {
+      "product_name": "Feather Wand Teaser",
+      "description": "An interactive wand toy with colorful feathers to keep your cat entertained.",
+      "price": 9.99,
+      "image": "https://img.freepik.com/free-photo/pet-accessories-still-life-with-toy-food-bowl_23-2148949560.jpg?t=st=1741638385~exp=1741641985~hmac=848e2228eacf91efed98a2d59168ff07f5edf4eb0755d92d9a480471c2877c60&w=996"
+    },
+    {
+      "product_name": "Automatic Laser Pointer",
+      "description": "A motion-activated laser toy that keeps your cat chasing and entertained.",
+      "price": 19.99,
+      "image": "https://img.freepik.com/premium-photo/black-cat-playing-with-red-laser-beam-full-body-shot-action-photography_1167814-1962.jpg?w=996"
+    },
+    {
+      "product_name": "Crinkle Tunnel",
+      "description": "A collapsible tunnel that makes crinkle sounds, perfect for hide-and-seek games.",
+      "price": 12.99,
+      "image": "https://img.freepik.com/premium-photo/cute-funny-cat-playing-home_392895-443366.jpg?w=996"
+    },
+    {
+      "product_name": "Cardboard Ring",
+      "description": "A Easy way to entertain your with a build in ball track, and is healthy for your cats nails.",
+      "price": 10.99,
+      "image": "https://img.freepik.com/free-photo/close-up-beautiful-cat-with-owner_23-2149216343.jpg?t=st=1741638907~exp=1741642507~hmac=eca3db0e32b19be97a087be2ca666ee8991523d6008126a136e631664be23832&w=740"
+    },
+    {
+      "product_name": "Catnip-Filled Plush Mouse",
+      "description": "A soft plush mouse filled with premium catnip for endless feline fun.",
+      "price": 5.49,
+      "image": "https://images.pexels.com/photos/3216568/pexels-photo-3216568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "product_name": "Rolling Ball Tower",
+      "description": "A tower with a spinning ball to engage your cat in endless play.",
+      "price": 15.99,
+      "image": "https://img.freepik.com/free-psd/3d-rendering-cat-icon_23-2151894048.jpg?t=st=1741638594~exp=1741642194~hmac=7e3913c39ebd336afdfb41a8ecd1e5bc4c1a723637ef944ccc423678a92ebaf6&w=996"
+    }
+  ]
+}

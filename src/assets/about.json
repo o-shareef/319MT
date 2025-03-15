@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "name": "Omran Shareef",
+      "email": "shareef@iastate.edu",
+      "major": "Computer Engineering"
+    },
+    {
+      "name": "Evan Sivets",
+      "email": "esivets@iastate.edu",
+      "major": "Computer Engineering"
+    }
+  ],
+  "course": [
+    {
+      "course_name": "COM-S 3190",
+      "class": "Construction of User Interfaces",
+      "professor": "Ali Jannesari"
+    }
+  ],
+  "future": [
+    {
+      "description1": "We want a forum page for customers to converse and share pictures of their pets.",
+      "description2": "Create a discussion board for customers.",
+      "description3": "Be able to add pictures to your review."
+    }
+  ]
+}

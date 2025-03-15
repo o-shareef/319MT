@@ -1,0 +1,33 @@
+{
+  "pet_images": [
+    {
+      "description": "SATISFIED CUSTOMER: MILLIE ",
+      "image": "../images/millie.png"
+    },
+    {
+      "description": "SATISFIED CUSTOMER: SUKI",
+      "image": "../images/suki.png"
+    },
+    {
+      "description": "SATISFIED CUSTOMER: BEAN",
+      "image": "../images/bean.jpg"
+    }
+  ],
+  "product_images": [
+    {
+      "image": "https://img.freepik.com/free-psd/3d-rendering-cat-icon_23-2151894048.jpg?t=st=1741638594~exp=1741642194~hmac=7e3913c39ebd336afdfb41a8ecd1e5bc4c1a723637ef944ccc423678a92ebaf6&w=996",
+      "headline": "NEW ITEM!",
+      "description": "The Rolling Ball Tower is our newest addition ot our cat toys! At only $15.99 it is a great way to keep you cat occupied throughout the day."
+    },
+    {
+      "image": "https://img.freepik.com/premium-photo/duck-doll-white-background_948935-5141.jpg?w=996",
+      "headline": "SALE!",
+      "description": "Our squeky duck dog toy is on sale! Only $7.99, make sure to pick one up before sale ends!"
+    },
+    {
+      "image": "https://img.freepik.com/premium-photo/black-cat-playing-with-red-laser-beam-full-body-shot-action-photography_1167814-1962.jpg?w=996",
+      "headline": "BEST SELLER!",
+      "description": "Our laser toy is our best seller! Make sure to grab one as you browse through our store!"
+    }
+  ]
+}

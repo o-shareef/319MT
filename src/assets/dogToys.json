@@ -1,0 +1,40 @@
+{
+  "dog_toys": [
+    {
+      "product_name": "Durable Rope Tug Toy",
+      "description": "A strong rope toy perfect for tug-of-war and interactive play.",
+      "price": 10.99,
+      "image": "https://img.freepik.com/premium-photo/dog-is-playing-tug-war-with-rope-playful-dog-with-toy-tug-war-master_1048944-23191633.jpg?w=996"
+    },
+    {
+      "product_name": "Squeaky Plush Duck",
+      "description": "A soft, plush duck with a built-in squeaker for extra fun.",
+      "price": 7.99,
+      "image": "https://img.freepik.com/premium-photo/duck-doll-white-background_948935-5141.jpg?w=996"
+    },
+    {
+      "product_name": "Treat Dispensing Ball",
+      "description": "A chew-resistant ball that dispenses treats while your dog plays.",
+      "price": 14.99,
+      "image": "https://img.freepik.com/free-photo/front-view-dog-legs-rubber-ball_23-2148366834.jpg?t=st=1741638260~exp=1741641860~hmac=1dc3929d467d14106e16a8e312914e1c245fe5af50b2be6454ab222febcc1fa8&w=996"
+    },
+    {
+      "product_name": "Interactive Puzzle Toy",
+      "description": "A brain-stimulating puzzle that rewards dogs with treats when solved.",
+      "price": 18.49,
+      "image": "https://img.freepik.com/free-photo/cocker-spaniel-plays-games-home_1303-27279.jpg?t=st=1741546818~exp=1741550418~hmac=e7f3073af9e5551addc92727254b4081b4325ac1015d392adffffca67a784c8e&w=740"
+    },
+    {
+      "product_name": "Tennis Ball 3-Pack",
+      "description": "Durable, non-abrasive tennis balls made specifically for dogs.",
+      "price": 9.99,
+      "image": "https://img.freepik.com/free-psd/sport-ball-isolated_23-2151387903.jpg?t=st=1741637818~exp=1741641418~hmac=617b35211b2219e55656ca729604c384278cb2e8dae8c4298a96a8b276a788a0&w=740"
+    },
+    {
+      "product_name": "Chew-Proof Rubber Bone",
+      "description": "A long-lasting rubber bone designed for aggressive chewers.",
+      "price": 12.99,
+      "image": "https://img.freepik.com/free-photo/pet-accessories-still-life-concept-with-bone-shaped-chew-toys_23-2148949621.jpg?t=st=1741637872~exp=1741641472~hmac=f9224a59c2c3bd36f151a564ae2095d25fdde6e96ada429813d3799566766e34&w=996"
+    }
+  ]
+}

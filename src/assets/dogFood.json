@@ -1,0 +1,40 @@
+{
+  "dog_food": [
+    {
+      "product_name": "Beef & Sweet Potato Dog Food",
+      "description": "A nutritious dry food for adult dogs made with high-quality beef and sweet potatoes.",
+      "price": 29.99,
+      "image": "../images/roughmeal.png"
+    },
+    {
+      "product_name": "Chicken & Rice Wet Dog Food",
+      "description": "A savory wet food with real chicken and rice, ideal for sensitive stomachs.",
+      "price": 12.49,
+      "image": "../images/huzzpups.png"
+    },
+    {
+      "product_name": "Huzz Pups Special",
+      "description": "Huzz Pups special mix to get the best out of your dog.",
+      "price": 16.99,
+      "image": "../images/hh.png"
+    },
+    {
+      "product_name": "Salmon & Vegetables Dog Food",
+      "description": "A nutrient-packed dry food featuring real salmon and a mix of healthy vegetables.",
+      "price": 32.49,
+      "image": "../images/bff.png"
+    },
+    {
+      "product_name": "Plain Dog food",
+      "description": "Plain dog food that your pet can trust.",
+      "price": 21.99,
+      "image": "../images/dogfood.png"
+    },
+    {
+      "product_name": "Turkey & Pumpkin Dog Food",
+      "description": "A tasty blend of turkey and pumpkin, perfect for dogs with food sensitivities.",
+      "price": 24.99,
+      "image": "../images/bbff.png"
+    }
+  ]
+}
